@@ -1,6 +1,5 @@
 <svg width="352" height="245" viewBox="0 0 352 245" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_394_2760)">
-<rect width="351.667" height="245" fill="#FCFCFC" style="fill:#FCFCFC;fill:color(display-p3 0.9869 0.9869 0.9869);fill-opacity:1;"/>
 <rect width="412.987" height="144.432" transform="translate(24 24)" fill="white" style="fill:white;fill-opacity:1;"/>
 <g filter="url(#filter0_d_394_2760)">
 <rect x="24.442" y="24.442" width="412.103" height="143.548" rx="12.818" stroke="#F4F4F4" style="stroke:#F4F4F4;stroke:color(display-p3 0.9583 0.9583 0.9583);stroke-opacity:1;" stroke-width="0.884" shape-rendering="crispEdges"/>
@@ -27,7 +26,6 @@
 </g>
 <foreignObject x="206.345" y="-2.3" width="147.621" height="249.6"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(1.15px);clip-path:url(#bgblur_1_394_2760_clip_path);height:100%;width:100%"></div></foreignObject><rect data-figma-bg-blur-radius="2.3" x="208.645" y="245" width="245" height="143.022" transform="rotate(-90 208.645 245)" fill="url(#paint3_linear_394_2760)" style=""/>
 </g>
-<rect x="0.5" y="0.5" width="350.667" height="244" stroke="#EAEAEA" stroke-opacity="0.33" style="stroke:#EAEAEA;stroke:color(display-p3 0.9188 0.9188 0.9188);stroke-opacity:0.33;"/>
 <defs>
 <filter id="filter0_d_394_2760" x="14.3644" y="16.1324" width="432.258" height="163.703" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
